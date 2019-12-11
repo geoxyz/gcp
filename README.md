@@ -22,7 +22,7 @@ Click "Deploy" to deploy the solution on your chosen machine type.
 
 ### Deployment Process
 Then wait for the service to be deployed.
-[Deployed](https://github.com/geoxyz/gcp/blob/master/Screen%20Shot%202019-11-26%20at%207.54.20%20PM.png)
+![Deployed](https://github.com/geoxyz/gcp/blob/master/Screen%20Shot%202019-11-26%20at%207.54.20%20PM.png)
 
 ### Successful Deployment
 Once successful you will see this message:
