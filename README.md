@@ -5,7 +5,7 @@ This is a step by step guide for deploying the reverse geocoder lite software on
 ## Launching the server
 
 Right now, 
-![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
+![Start-page](https://github.com/geoxyz/gcp/blob/master/Screen%20Shot%202019-11-26%20at%207.47.42%20PM.png)
 
 we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
 
