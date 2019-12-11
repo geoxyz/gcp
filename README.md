@@ -7,5 +7,9 @@ The reverse geocode lite is a very fast reverse geocoding API. It takes as input
 Navigate to the solution page: 
 ![Start-page](https://github.com/geoxyz/gcp/blob/master/Screen%20Shot%202019-11-26%20at%207.47.42%20PM.png)
 
-## Describe your project
+## Access the API on port 80 (http://<your ip>
+  ![API](https://github.com/geoxyz/gcp/blob/master/Screen%20Shot%202019-11-26%20at%207.58.57%20PM.png)
+  
+## What If I Need Help?
+Go to the [Support Page](https://geocode.xyz/contact) and either chat, email or tweet to us.
 
