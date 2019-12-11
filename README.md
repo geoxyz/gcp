@@ -4,7 +4,7 @@ The reverse geocode lite is a very fast reverse geocoding API. It takes as input
 
 ## Launching the server
 
-Navigate to the solution page: 
+### Navigate to the solution page: 
 ![Start-page](https://github.com/geoxyz/gcp/blob/master/Screen%20Shot%202019-11-26%20at%207.47.42%20PM.png)
 
 Configure the project where you are going to host the API
