@@ -17,7 +17,7 @@ Then allow network access to port 80 (and possibly port 443 if you want to acces
 ![Network](https://github.com/geoxyz/gcp/blob/master/Screen%20Shot%202019-11-26%20at%207.53.56%20PM.png)
 
 ### Deployment
-Click "Deploy"
+Click "Deploy" to deploy the solution on your chosen machine type.
 ![Deploy](https://github.com/geoxyz/gcp/blob/master/Screen%20Shot%202019-11-26%20at%207.54.05%20PM.png)
 
 ### Deployment Process
